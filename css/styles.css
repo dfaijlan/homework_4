@@ -1,0 +1,75 @@
+body, html {
+    height: 100%;
+}
+.bg { 
+    /* The image used */
+    background-image: url("img/background.jpg");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.navbar {
+    height: 10%;
+    font-size: 200%;
+    font-family: 'Fascinate Inline', cursive;
+    background-color:black !important;
+    color: white !important;
+}
+
+.container-fluid {
+    color:white;
+}
+
+.col-sm-4 {
+    background-color: black;
+}
+
+input, option, select {
+    color: black !important;
+}
+
+#thankyou, #return {
+    font-size: 200%;
+    background-color: black;
+}
+
+
+/*h1 {*/
+/*    color: white;*/
+/*    text-align: center;*/
+/*    font-family: 'Fascinate Inline', cursive;*/
+/*    font-size: 300%;*/
+/*    background-color:black;*/
+/*}*/
+
+/*body {*/
+/*    font-family: 'Ubuntu', sans-serif;*/
+/*    color:white;*/
+/*}*/
+
+/*.container {*/
+/*    display: inline-block;*/
+/*    background-color: black;*/
+/*}*/
+
+/*#thankyou {*/
+/*    display: inline-block;*/
+/*    font-size: 200%;*/
+/*    background-color: black;*/
+/*    position: absolute;*/
+/*}*/
+
+/*#return {*/
+/*    display: inline-block;*/
+/*    text-align: center;*/
+/*    font-size: 200%;*/
+/*    margin-top:200px;*/
+/*    background-color: black;*/
+/*    position: absolute;*/
+/*}*/
